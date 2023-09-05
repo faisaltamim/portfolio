@@ -32,7 +32,7 @@ https://templatemo.com/tm-578-first-portfolio
   --menu-font-size:               12px;
   --copyright-font-size:          14px;
 
-  --border-radius-large:          100px;
+  --border-radius-large:          20px;
   --border-radius-medium:         20px;
   --border-radius-small:          10px;
 
@@ -1191,7 +1191,7 @@ padding-bottom: 330px;
 
 /*//custom css*/
 #section_1{
-  background: linear-gradient(0deg, rgba(3, 10, 96, 0.9), rgba(0, 0, 0, 0.9)), url('../images/bgheader.jpg');
+  background: linear-gradient(0deg, rgba(3, 10, 96, 0.8), rgba(0, 0, 0, 0.8)), url('../images/bgheader.jpg');
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
