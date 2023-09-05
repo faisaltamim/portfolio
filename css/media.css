@@ -53,6 +53,42 @@
   .navbar .container{
     background: #1e2f36;
   }
+  .navbar .custom-btn {
+    background: white!important;
+    transition:0.3s!important;
+  }
+  .navbar .custom-btn:hover{
+    background-color: transparent!important;
+    border-color: white!important;
+    color: white!important;
+  }
+  .navbar-icon {
+    background: white;
+    color: #1e2f36;
+  }
+
+
+
+  .is-sticky .navbar .custom-btn {
+    background: white!important;
+    transition:0.3s!important;
+
+  }
+  .is-sticky .navbar .custom-btn:hover{
+
+    background-color: #1e2f36!important;
+    color: white!important;
+  }
+  .navbar-toggler {
+    width: 34px;
+    border-radius: 2px;
+    background: white;
+    margin-right: 5px;
+  }
+  .navbar-toggler span{
+    margin:auto;
+  }
+
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .customWhiteLogoSticky{
@@ -72,6 +108,9 @@
     display: block!important;
     width:40px!important;
   }
+
+
+
 }
 
 @media only screen and (max-width: 430px) {
