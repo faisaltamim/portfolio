@@ -1201,3 +1201,7 @@ padding-bottom: 330px;
 .navbar-nav .nav-link.active, .navbar-nav .nav-link:hover {
   color: #00ffa1!important;
 }
+.avatar-image{
+	border-radius:50%;
+
+}
